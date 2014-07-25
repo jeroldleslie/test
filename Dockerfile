@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM centos:latest
 MAINTAINER DemandCube
 
 RUN yum update -y
